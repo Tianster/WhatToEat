@@ -86,7 +86,7 @@
             "category":"junk food",
             "sizes":["small","large"],
             "calories": [60, 80]
-
+            "calories": [60, 80],
         }
 
         {   "name":"sliced cooked pork",
